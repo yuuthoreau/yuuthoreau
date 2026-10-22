@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Pastikan Anda mengunggah gambar di atas ke repositori Anda dan mengganti nama filenya menjadi banner.jpg -->
-  <img src="[https://uploadfy.zone.id/file/acYG9nzVWKSn756T6B3A.jpe](https://imgur.com/a/n0pnl1Q)" alt="Ai Hayasaka Banner" width="100%" style="border-radius: 12px;" />
+  <img src="(https://imgur.com/a/n0pnl1Q)" alt="Ai Hayasaka Banner" width="100%" style="border-radius: 12px;" />
 
   # Halo, Saya [Nama Anda]! 👋
   ### 💻 Full-Stack Developer | 🎨 Anime Enthusiast | ☕ Coffee Lover
