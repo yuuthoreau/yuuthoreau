@@ -51,13 +51,13 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_ANDA&theme=gruvbox_light&hide_border=true&background=FDF6E3&ring=B58900&fire=CB4B16&currStreakLabel=B58900" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=yuuthoreau&theme=gruvbox_light&hide_border=true&background=FDF6E3&ring=B58900&fire=CB4B16&currStreakLabel=B58900" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME_ANDA&label=Profile%20Views&color=eab308&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yuuthoreau&label=Profile%20Views&color=eab308&style=flat-square" alt="Profile Views" />
   <br />
   <sub>✨ <i>Terima kasih sudah mampir ke profil saya! Jangan lupa berikan ⭐ pada repositori yang menarik bagi Anda.</i> ✨</sub>
 </div>
