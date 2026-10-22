@@ -29,12 +29,6 @@
 ---
 
 ### 🌸 Tentang Saya
-
-- 🔭 Saat ini sedang mengerjakan proyek **[Nama Proyek Anda]**.
-- 🌱 Sedang mendalami **[Teknologi/Bahasa yang sedang dipelajari, misal: React, Go, atau AI]**.
-- 💡 Tertarik pada pengembangan *Web*, *Open Source*, dan merakit PC (seperti Ai Hayasaka!).
-- ⚡ Fakta menarik: *Waifu* terbaik jelas adalah Ai Hayasaka.
-
 ---
 
 ### 🛠️ Bahasa Pemrograman & Tools
@@ -52,8 +46,8 @@
 
 <!-- PENTING: Ganti semua tulisan 'USERNAME_ANDA' di bawah ini dengan username GitHub asli Anda -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=gruvbox_light&hide_border=true&bg_color=FDF6E3&title_color=B58900&icon_color=CB4B16&text_color=586E75" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=gruvbox_light&hide_border=true&bg_color=FDF6E3&title_color=B58900&text_color=586E75" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuuthoreau&show_icons=true&theme=gruvbox_light&hide_border=true&bg_color=FDF6E3&title_color=B58900&icon_color=CB4B16&text_color=586E75" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuuthoreau&layout=compact&theme=gruvbox_light&hide_border=true&bg_color=FDF6E3&title_color=B58900&text_color=586E75" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
