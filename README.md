@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Pastikan Anda mengunggah gambar di atas ke repositori Anda dan mengganti nama filenya menjadi banner.jpg -->
-  <img src=https://kommodo.ai/i/l0qq6I2Bo6uSM9meugmM alt="Ai Hayasaka Banner" width="100%" style="border-radius: 12px;" />
+  <img src="blob:https://tools.kommodo.ai/d6e39056-49be-4c04-8de9-7301a3d24078" alt="Ai Hayasaka Banner" width="100%" style="border-radius: 12px;" />
 
   # Halo, Saya [Nama Anda]! 👋
   ### 💻 Full-Stack Developer | 🎨 Anime Enthusiast | ☕ Coffee Lover
